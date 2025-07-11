@@ -44,7 +44,7 @@ I'm a passionate **Software Engineer** and **Mobile UI Developer** with a solid 
 
 ### 🔧 Quick Filler  
 A digital platform that revolutionizes gas delivery and station location. Includes XRP crypto payments and a rewards system.  
-**Tech:** Vue.js, Nuxt.js, RESTful API, Postman
+**Tech:** React.js, RESTful API, Postman
 
 ### 🌐 Portfolio Website  
 A black-and-white themed personal portfolio to showcase my work, contact info, and skills.  
