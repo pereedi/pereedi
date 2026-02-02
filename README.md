@@ -7,6 +7,7 @@ I'm a passionate **Software Engineer** and **Mobile UI Developer** with a solid 
 ## 🚀 What I Do
 
 - 🔧 Frontend Engineering (React.js, Vue.js, Nuxt.js)
+- 🔧 Backend Engineering(Node.js, Express.js)
 - 📱 Mobile UI Development (React Native, Flutter)
 - 🔌 API Integration using RESTful services & Axios
 - 🎨 UI/UX Design and Implementation
