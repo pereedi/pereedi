@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Peremobowei Edi
 
-I'm a passionate **Software Engineer** and **Mobile UI Developer** with a solid foundation in **Frontend Development**, **Web Technologies**, and **Cross-Platform Mobile Apps**. I build fast, accessible, and user-focused digital products using modern stacks like **React**, **Vue**, **Flutter**, and **Node.js**.
+I'm a passionate **Software Engineer** and **Mobile UI Developer** with a solid foundation in **full-stack Development**, **Web Technologies**, and **Cross-Platform Mobile Apps**. I build fast, accessible, and user-focused digital products using modern stacks like **React**, **Vue**, **Flutter**, and **Node.js**.
 
 ---
 
@@ -18,13 +18,13 @@ I'm a passionate **Software Engineer** and **Mobile UI Developer** with a solid 
 ## 🛠️ Tech Stack
 
 **Languages & Tools**  
-`JavaScript` `Dart` `HTML` `CSS` `SQL` `Git` `GitHub`
+`JavaScript` `TypeScript ` `Dart` `HTML` `CSS` `SQL` `Git` `GitHub`
 
 **Frontend**  
 `React.js` `Vue.js` `Nuxt.js`
 
 **Mobile**  
-`React Native` `Flutter`
+`Flutter`
 
 **Backend & APIs**  
 `Node.js` `Express.js` `Axios` `RESTful APIs`
