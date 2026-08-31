@@ -45,7 +45,8 @@ I'm a passionate **Software Engineer** and with a solid foundation in **full-sta
 
 
 ---
-
+## Resume
+📄 [Download my CV](https://github.com/pereedi/pereedi/raw/main/Peremobowei_Edi_CV_1.pdf)
 ##  Get in Touch
 
 - GitHub: [github.com/pereedi](https://github.com/pereedi)  
